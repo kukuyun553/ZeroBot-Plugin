@@ -1,4 +1,4 @@
-// Package main ZeroBot-Plugin main file
+ // Package main ZeroBot-Plugin main file
 package main
 
 import (
@@ -259,7 +259,7 @@ func init() {
 	}
 
 	// 通过代码写死的方式添加主人账号
-	// sus = append(sus, 12345678)
+	  sus = append(sus, 3760429744)
 	// sus = append(sus, 87654321)
 
 	// 启用 webui
